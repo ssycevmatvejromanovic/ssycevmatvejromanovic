@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ssycevmatvejromanovic
 - 👀 I’m interested in script
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning  codellama
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ssycevmatvejromanovic@gmail.com
 
