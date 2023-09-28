@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ssycevmatvejromanovic.
+- 👋 Hi, I’m @ssycevmatvejromanovic
 - 👀 I’m interested in script_
 - 🌱 I’m currently learning  codellama.
 - 💞️ I’m looking to collaborate on  nvchecker.
